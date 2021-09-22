@@ -1,12 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Header from './components/Header';
 import reportWebVitals from './reportWebVitals';
+import Footer from "./components/Footer";
+import DocsCards from "./components/DocsCards";
+import ProjCards from "./components/ProjCards";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Header />
+      <DocsCards/>
+      <ProjCards/>
+ <Footer/>
   </React.StrictMode>,
   document.getElementById('root')
 );

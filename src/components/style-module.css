@@ -1,0 +1,175 @@
+
+body{
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 2333px;
+    text-align: center;
+    background: transparent linear-gradient(180deg, #122A47 0%, #01152E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.header {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    color: white;
+    padding-left: 150px;
+    font-family: 'Tajawal'
+}
+
+h1 {
+    top: 425px;
+    padding-top: 28px;
+    padding-left: 378px;
+    width: 453px;
+    height: 75px;
+    font: normal bold 64px/68px Tajawal;
+    letter-spacing: 1.28px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-family: 'Tajawal'
+}
+
+.mainTitle {
+    padding-left: 430px;
+    width: 351px;
+    height: 26px;
+    text-align: center;
+    font: normal 26px/36px Tajawal;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-family: 'Tajawal'
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #031C3B;
+    color: #D8F9FF;
+    text-align: center;
+    font-family: 'Tajawal'
+}
+
+.main {
+    left: 137px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    font-family: 'Tajawal'
+}
+
+
+h4 {
+    color: #D8F9FF;
+    font-size: 16px;
+    font-family: 'Tajawal'
+
+}
+
+.flex {
+    margin: 10px;
+    border: 3px solid #2A86961A;
+    border-radius: 15px;
+    background: transparent linear-gradient(180deg, #122A47 0%, #01152E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    width: 290px;
+    height: 323px;
+
+}
+
+.book1{
+    border-radius: 9px 5px 0 0;
+    width: 100%;
+    background: transparent url(../imgs/book1.png) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.book2 {
+    border-radius: 9px 5px 0 0;
+    width: 100%;
+    background: transparent url(../imgs/book2.png) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.mostContainer {
+    padding: 0.1px 0 30px 0;
+    border-radius: 16px;
+    box-shadow: 0px 0px 10px #00000029;
+    margin-left: 100px;
+    background-color: #01152E;
+    opacity: 1;
+}
+
+.ProjContainer {
+    padding: 0.1px 0 30px 0;
+    border-radius: 16px;
+    box-shadow: 0px 0px 10px #00000029;
+    margin-left: 100px;
+    background-color: #01152E;
+    opacity: 1;
+    margin-top: 10%;
+}
+
+.ProjMain {
+    left: 137px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    font-family: 'Tajawal'
+}
+
+.LeastContainer {
+    left: 137px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Tajawal';
+    padding-left: 83px;
+    position: relative;
+    opacity: 0.32;
+}
+
+.ProjFlex {
+    margin: 10px;
+    border: 3px solid #2A86961A;
+    border-radius: 15px;
+    background: transparent linear-gradient(180deg, #122A47 0%, #01152E 100%) 0% 0% no-repeat padding-box;
+    height: 323px;
+}
+
+.title {
+    width: 104px;
+    text-align: center;
+    font: normal normal bold 32px/26px Tajawal;
+    letter-spacing: 0.8px;
+    color: #D8F9FF;
+    padding-left: 80%;
+    font-size: 32px;
+}
+.soon1 {
+    position: absolute;
+    top: 234%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font: normal normal bold 53px/75px Tajawal;
+    letter-spacing: 0px;
+    color: #D8F9FF;
+    display: block;
+}
+.soon2 {
+    position: absolute;
+    top: 234%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font: normal normal bold 53px/75px Tajawal;
+    letter-spacing: 0px;
+    color: #D8F9FF;
+    display: block;
+}
